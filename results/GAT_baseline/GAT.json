@@ -1,0 +1,7 @@
+{
+  "model": "GAT",
+  "learning_rate": 0.005,
+  "best_epoch": 127,
+  "val_accuracy": 0.6166666666666667,
+  "test_accuracy": 0.6166666666666667
+}

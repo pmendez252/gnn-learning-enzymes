@@ -1,0 +1,7 @@
+{
+  "model": "GAT_multihead_dropout",
+  "learning_rate": 0.005,
+  "best_epoch": 35,
+  "val_accuracy": 0.75,
+  "test_accuracy": 0.7333333333333333
+}
