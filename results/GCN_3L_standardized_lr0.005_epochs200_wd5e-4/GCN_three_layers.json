@@ -1,0 +1,7 @@
+{
+  "model": "GCN_three_layers",
+  "learning_rate": 0.005,
+  "best_epoch": 121,
+  "val_accuracy": 0.7333333333333333,
+  "test_accuracy": 0.6
+}
