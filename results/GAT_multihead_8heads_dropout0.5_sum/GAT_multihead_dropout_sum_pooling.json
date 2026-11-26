@@ -1,0 +1,7 @@
+{
+  "model": "GAT_multihead_dropout_sum_pooling",
+  "learning_rate": 0.005,
+  "best_epoch": 117,
+  "val_accuracy": 0.7166666666666667,
+  "test_accuracy": 0.6833333333333333
+}
